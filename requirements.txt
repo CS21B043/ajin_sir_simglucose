@@ -7,7 +7,7 @@ dill>=0.3.7
 Farama-Notifications>=0.0.4
 fonttools>=4.42.0
 gym==0.9.4
-gymnasium~=0.29.1
+gymnasium>=0.29.0
 idna>=3.4
 iniconfig>=2.0.0
 kiwisolver>=1.4.4
